@@ -1,0 +1,5 @@
+{
+  "name": "Copy of PixelGen AI",
+  "description": "A high-performance AI image generation tool powered by Google Gemini 2.5 Flash Image. Create stunning visuals from text prompts with customizable aspect ratios.",
+  "requestFramePermissions": []
+}
